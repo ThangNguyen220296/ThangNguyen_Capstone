@@ -1,2 +1,2 @@
 # ThangNguyen_Capstone
-ThangNguyen's code.
+ThangNguyen_Code
