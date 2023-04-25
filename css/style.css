@@ -370,7 +370,8 @@ body {
 }
 
 .themeDom .title h2,
-.themeDom #blog .card a {
+.themeDom #blog .card a,
+.themeDom .testimonials__item h4 {
     color: #eee;
 }
 
